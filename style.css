@@ -1,9 +1,14 @@
-.gallery{
+.gallery {
     display: inline-block;
     width: 48%;
 }
 
-.gallery > img{
-
+.gallery>img {
+    width: 48%
 }
 
+.gallery>div {
+    font-size: 2em;
+    text-align: left;
+    font-weight: bolder;
+}
